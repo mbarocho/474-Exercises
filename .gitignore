@@ -128,3 +128,6 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# firebase key
+fir-test-437e7-firebase-adminsdk-mpdcr-98d8453e41.json
